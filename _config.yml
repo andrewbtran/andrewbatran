@@ -1,13 +1,13 @@
 # Site settings
 title: Andrew Ba Tran
 description: "Projects by Andrew Tran"
-url: "https://andrewbtran.github.io/andrewbatran"
+url: "https://andrewbtran.github.io/"
 
 
 
 
 # Secondary Parameters
-baseurl: "/"
+baseurl: "andrewbatran"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 # logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
