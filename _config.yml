@@ -1,7 +1,7 @@
 # Site settings
 title: Andrew Ba Tran
 description: "Projects by Andrew Tran"
-url: "https://andrewbtran.github.io/"
+url: "https://andrewbtran.github.io/andrewbatran"
 
 
 
@@ -14,7 +14,7 @@ headercolor: "#FFFFFF"
 
 # Tertiary Parameters
 github_username:  andrewbtran
-project_repository: 
+#project_repository: 
 #disqus_shortname: project-pages
 #g-analytics: UA-75881392-1
 altmetric: true
